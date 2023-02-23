@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the freeCodeCamp's (New) Responsive Web Design Curriculum
+- :smile: I'm about to start the School of Code's 14.0 Bootcamp
+- :cat: I'm a career switcher: 12 years as a teacher and now looking for new and exciting opportunities in Tech
+- 🌱 I’m currently learning about HTML and CSS
+- 📫 How to reach me: https://twitter.com/catherineg478
+                      https://www.instagram.com/catherineeegreen/                      
+                      https://www.linkedin.com/in/catherine-green-953766106/
+
 <!--
 **CGreen789/CGreen789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
