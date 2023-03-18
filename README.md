@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the freeCodeCamp's (New) Responsive Web Design Curriculum
-- :smile: I'm about to start the School of Code's 14.0 Bootcamp
+- :smile: I'm a member of The School of Code's 14.0 Bootcamp 🥳
+- 🔭 I’m currently working on JavaScript
 - :cat: I'm a career switcher: 12 years as a teacher and now looking for new and exciting opportunities in Tech
-- 🌱 I’m currently learning JavaScript basics
 - 📫 How to reach me: https://twitter.com/catherineg478
                       https://www.instagram.com/catherineeegreen/                      
                       https://www.linkedin.com/in/catherine-green-953766106/
