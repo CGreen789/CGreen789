@@ -6,6 +6,7 @@
 - 📫 How to reach me: https://twitter.com/catherineg478
                       https://www.instagram.com/catherineeegreen/                      
                       https://www.linkedin.com/in/catherine-green-953766106/
+                      https://www.codewars.com/users/CGreen789
 
 <!--
 **CGreen789/CGreen789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
