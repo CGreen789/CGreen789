@@ -2,7 +2,7 @@
 
 - :smile: I'm a member of The School of Code's 14.0 Bootcamp 🥳
 - 📆 It's week 3 and we're moving onto UX/UI
-- 🔭 I’m currently working on JavaScript
+- 🔭 I’m currently learning JavaScript
 - :cat: I'm a career switcher: 12 years as a teacher and now looking for new and exciting opportunities in Tech
 - 📫 How to reach me: https://twitter.com/catherineg478
                       https://www.instagram.com/catherineeegreen/                      
