@@ -15,7 +15,9 @@ I am an aspiring Full Stack Developer currently studying at The School of Code. 
 <a href="https://www.github.com/CGreen789" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/CGreen789?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/catherineg478" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/catherineg478?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
+                
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
