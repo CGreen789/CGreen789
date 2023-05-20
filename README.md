@@ -9,7 +9,7 @@ I am an aspiring Full Stack Developer currently studying at The School of Code. 
 *   🌍  I'm based in Kent
 *   😃 I'm part of The School of Code's 14.0 bootcamp!
 *   ✉️  You can contact me at [catherineeegreen@outlook.com](mailto:catherineeegreen@outlook.com)
-*   🧠  I'm learning Javascript | React and moving onto Back-End in the next few weeks
+*   🧠  I'm currently learning PostgreSQL - week 11 of the School of Code!
 *   🤝  I'm open to collaborating on projects - let me know!
 
 <a href="https://www.github.com/CGreen789" target="_blank" rel="noreferrer"><img
