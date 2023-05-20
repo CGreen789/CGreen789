@@ -4,7 +4,7 @@ Hi 👋 My name is Catherine Green
 Aspiring Full Stack Developer
 -----------------------------
 
-I am an aspiring Full Stack Developer currently studying at The School of Code. After graduating in Music, I trained and became a qualified teacher of music, maths and PE. My 12 years in the classroom gave me endless opportunities to develop, collaborate, learn and also to realise that something was missing. I have always loved solving problems, and in The School of Code I finally found the missing piece of the puzzle. Since applying for the course, I have relished the feeling of ‘there is always more to learn’ and have enjoyed working on personal projects to deepen my understanding.![image](https://github.com/CGreen789/CGreen789/assets/112316339/e158ba52-ce8d-40f2-a419-913bb2d7133a)
+I am an aspiring Full Stack Developer currently studying at The School of Code. After graduating in Music, I trained and became a qualified teacher of music, maths and PE. My 12 years in the classroom gave me endless opportunities to develop, collaborate, learn and also to realise that something was missing. I have always loved solving problems, and in The School of Code I finally found the missing piece of the puzzle. Since applying for the course, I have relished the feeling of ‘there is always more to learn’ and have enjoyed working on personal projects to deepen my understanding.
 
 
 *   🌍  I'm based in Kent
