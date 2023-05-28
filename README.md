@@ -4,44 +4,24 @@ Hi 👋 My name is Catherine Green
 Aspiring Full Stack Developer
 -----------------------------
 
-I am an aspiring Full Stack Developer currently studying at The School of Code. After graduating in Music, I trained and became a qualified teacher of music, maths and PE. My 12 years in the classroom gave me endless opportunities to develop, collaborate, learn and also to realise that something was missing. I have always loved solving problems, and in The School of Code I finally found the missing piece of the puzzle. Since applying for the course, I have relished the feeling of ‘there is always more to learn’ and have enjoyed working on personal projects to deepen my understanding.
+# 💫 About Me:
+🌍  I'm based in Kent<br>😃  I'm part of The School of Code's 14.0 bootcamp!<br>✉️  You can contact me at [catherineeegreen@outlook.com](mailto:catherineeegreen@outlook.com)<br>🧠  I'm about to start a five week project with the School of Code.<br>🤝  I'm open to collaborating on projects - let me know!
 
 
-*   🌍  I'm based in Kent
-*   😃  I'm part of The School of Code's 14.0 bootcamp!
-*   ✉️   You can contact me at [catherineeegreen@outlook.com](mailto:catherineeegreen@outlook.com)
-*   🧠  I'm currently learning PostgreSQL - week 11 of the School of Code!
-*   🤝  I'm open to collaborating on projects - let me know!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/catherineeegreen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/catherine-green-953766106) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/catherineg478) 
 
-<a href="https://www.github.com/CGreen789" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/CGreen789?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/catherineg478" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/catherineg478?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
-                
-### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://www.github.com/CGreen789" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/catherineeegreen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/catherine-green-953766106/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/catherineg478" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CGreen789&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CGreen789&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CGreen789&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### Badges
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=catherineg478)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<b>My GitHub Stats</b>
+---
+[![](https://visitcount.itsvg.in/api?id=CGreen789&icon=9&color=3)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/CGreen789"><img src="https://github-readme-stats.vercel.app/api?username=CGreen789&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CGreen789's GitHub stats" /></a>
-
-<a href="http://www.github.com/CGreen789"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CGreen789&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-                 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
