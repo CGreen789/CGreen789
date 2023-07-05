@@ -5,7 +5,7 @@ Aspiring Full Stack Developer
 -----------------------------
 
 # 💫 About Me:
-🌍  I'm based in Kent<br>😃  I'm part of The School of Code's 14.0 bootcamp!<br>✉️  You can contact me at [catherineeegreen@outlook.com](mailto:catherineeegreen@outlook.com)<br>🧠  I'm about to start a five week project with the School of Code.<br> 🕷️ I'm part of arachnIDEs - hoping to solve the issue of lack of community spirit in a cost of living crisis! <br>
+🌍  I'm based in Kent<br>😃  I'm officially a graduate of The School of Code's 14.0 bootcamp!<br>✉️  You can contact me at [catherineeegreen@outlook.com](mailto:catherineeegreen@outlook.com)<br>🧠  I'm about to start a five week project with the School of Code.<br> 🕷️ I'm part of arachnIDEs - hoping to solve the issue of lack of community spirit in a cost of living crisis! <br>
 🤝  I'm open to collaborating on projects - let me know!
 
 
