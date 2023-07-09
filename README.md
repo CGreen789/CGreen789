@@ -19,8 +19,6 @@ Aspiring Full Stack Developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CGreen789&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CGreen789&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=catherineg478)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CGreen789&icon=9&color=3)](https://visitcount.itsvg.in)
