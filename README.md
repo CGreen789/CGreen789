@@ -1,12 +1,12 @@
 Hi 👋 My name is Catherine Green
 ================================
 
-Aspiring Full Stack Developer
+Full Stack Developer
 -----------------------------
 
 # 💫 About Me:
-🌍  I'm based in Sittingbourne, Kent<br>😃  I'm officially a graduate of The School of Code's 14.0 bootcamp!<br>✉️  You can contact me at [catherineeegreen@outlook.com](mailto:catherineeegreen@outlook.com)<br>🧠  I'm actively looking for my first role in tech!<br> 🙌🏻   [ Help Me Help You](https://helpme-helpyou-favour.netlify.app/) - hoping to solve the issue of lack of community spirit in a cost of living crisis! <br>
-🤝  I'm open to collaborating on projects - let me know!<br> 💼 I am actively looking for a full stack, software engineering or back end role.
+🌍  I'm based in Sittingbourne, Kent<br>😃  I'm officially a graduate of The School of Code's 14.0 bootcamp!<br>✉️  You can contact me at [catherineeegreen@outlook.com](mailto:catherineeegreen@outlook.com)<br>🧠  I'm exploring AWS and using the AWS Educate system!<br> 🙌🏻   [ Help Me Help You](https://helpme-helpyou-favour.netlify.app/) - hoping to solve the issue of lack of community spirit in a cost of living crisis! <br>
+🤝  I'm open to collaborating on projects - let me know!<br> 💼 I am currently working as a Developer at Iceland Foods.
 
 
 ## 🌐 Socials:
